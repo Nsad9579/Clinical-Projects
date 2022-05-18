@@ -11,4 +11,4 @@ data >> https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis
 
 
 ## 2) pleural effusion project: 
-data>> nature article
+data >> 
