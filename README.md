@@ -10,5 +10,5 @@ data >> https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis
 
 
 
-## 2) pleural effusion project: 
+## 2) Anemia project: 
 data >> 
