@@ -7,6 +7,7 @@
 
 data 
 
+> 
 > https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
  
 
@@ -16,7 +17,8 @@ data
 
 data 
 
-> https://www.kaggle.com/datasets/alisabrie/anemia
+>  
+>  https://www.kaggle.com/datasets/alisabrie/anemia
 
 
 ## 3) CKD project
@@ -24,4 +26,5 @@ data
 data 
 
 
+> 
 > https://www.kaggle.com/datasets/colearninglounge/chronic-kidney-disease
