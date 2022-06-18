@@ -27,4 +27,4 @@ data
 
 
 > 
-> https://www.kaggle.com/datasets/colearninglounge/chronic-kidney-disease
+> From a a dataset in [kaggle](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
